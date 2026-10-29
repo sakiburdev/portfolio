@@ -1,0 +1,405 @@
+{
+  "personalInfo": {
+    "name": "Sakibur",
+    "designation": [
+      "React Developer",
+      "Next.js Developer",
+      "Frontend Developer",
+      "Full Stack Developer"
+    ],
+    "email": "sakibur922@gmail.com",
+    "whatsapp": "+088 194 388609",
+    "whatsappLink": "https://wa.me/880194388609",
+    "profileImage": "/images/profile.png",
+    "aboutImage": "/images/about.png"
+  },
+  "socialLinks": {
+    "github": "https://github.com/sakiburdev/sakiburdev",
+    "linkedin": "https://www.linkedin.com/in/sakibur-rahman-sabbir",
+    "facebook": "https://www.facebook.com/sakibur.sabbir"
+  },
+  "about": {
+    "title": "About Me",
+    "imagePosition": "left",
+    "paragraphs": [
+      "I am a passionate and enthusiastic web developer with a strong interest in technology and programming. My programming journey began with a curiosity to learn new things and turn my ideas into reality. I am currently working on improving my skills through Programming Hero. My goal is to keep learning, expand my knowledge, and grow into a skilled and professional web developer.",
+      "I enjoy building websites, exploring new designs, and solving real-world problems using modern technologies. I especially love creating websites that are visually appealing, user-friendly, and useful to people. I am always eager to learn new technologies, improve my coding skills, and create better digital experiences through my work.",
+      "Beyond programming, I enjoy spending quality time with my family and friends, having conversations, and sharing happy moments with them. In my free time, I love playing video games and cricket. I believe that curiosity, hard work, and a positive mindset are essential for personal and professional growth. My dream is to become a skilled web developer and use my abilities to build meaningful and impactful digital solutions."
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "iconPosition": "left",
+      "skills": [
+        {
+          "name": "HTML5",
+          "icon": "html5"
+        },
+        {
+          "name": "CSS3",
+          "icon": "css3"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "javascript"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "typescript"
+        },
+        {
+          "name": "React",
+          "icon": "react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "tailwindcss"
+        },
+        {
+          "name": "Next.js",
+          "icon": "nextdotjs"
+        },
+        {
+          "name": "shadcn/ui",
+          "icon": "shadcnui"
+        },
+        {
+          "name": "Hero UI",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "category": "Backend",
+      "iconPosition": "left",
+      "skills": [
+        {
+          "name": "Node.js",
+          "icon": "nodedotjs"
+        },
+        {
+          "name": "Express.js",
+          "icon": "express"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "mongodb"
+        },
+        {
+          "name": "Mongoose",
+          "icon": "mongoose"
+        },
+        {
+          "name": "API Integration",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "category": "Tools & Libraries",
+      "iconPosition": "left",
+      "skills": [
+        {
+          "name": "Git",
+          "icon": "git"
+        },
+        {
+          "name": "GitHub",
+          "icon": "github"
+        },
+        {
+          "name": "VS Code",
+          "icon": "visualstudiocode"
+        },
+        {
+          "name": "Figma",
+          "icon": "figma"
+        },
+        {
+          "name": "Vercel",
+          "icon": "vercel"
+        },
+        {
+          "name": "Netlify",
+          "icon": "netlify"
+        },
+        {
+          "name": "Stripe",
+          "icon": "stripe"
+        },
+        {
+          "name": "SSLCommerz",
+          "icon": null
+        },
+        {
+          "name": "Postman",
+          "icon": "postman"
+        }
+      ]
+    },
+    {
+      "category": "Authentication & Security",
+      "iconPosition": "left",
+      "skills": [
+        {
+          "name": "Better Auth",
+          "icon": null
+        },
+        {
+          "name": "Role-Based Access Control",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "category": "AI & Modern Development",
+      "iconPosition": "left",
+      "skills": [
+        {
+          "name": "AI Mindset Development",
+          "icon": null
+        },
+        {
+          "name": "AI Integration",
+          "icon": null
+        },
+        {
+          "name": "AI-Assisted Coding",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "category": "Programming Concepts & Testing",
+      "iconPosition": "left",
+      "skills": [
+        {
+          "name": "DOM",
+          "icon": null
+        },
+        {
+          "name": "BOM",
+          "icon": null
+        },
+        {
+          "name": "ES6 with Problem Solving",
+          "icon": null
+        },
+        {
+          "name": "Modular Pattern",
+          "icon": null
+        },
+        {
+          "name": "Introduction to Testing",
+          "icon": null
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "period": "2019 - 2023",
+      "degree": "Bachelor of Science",
+      "institution": "Green University of Bangladesh",
+      "department": "Electrical and Electronic Engineering"
+    },
+    {
+      "period": "2014 - 2019",
+      "degree": "Diploma in Engineering",
+      "institution": "Brahmanbaria Govt. Polytechnic Institute",
+      "department": "Refrigeration and Air Conditioning (RAC)"
+    },
+    {
+      "period": "2014",
+      "degree": "Secondary School Certificate",
+      "institution": "Beltia High School",
+      "department": "Science Group"
+    }
+  ],
+  "projects": [
+    {
+      "id": "bazardor",
+      "name": "বাজার দর (BazarDor)",
+      "slug": "bazardor",
+      "images": [
+        "/images/bazardor/bazardor1.png",
+        "/images/bazardor/bazardor4.png",
+        "/images/bazardor/bazardor5.png"
+      ],
+      "imageLayout": "scattered",
+      "description": "BazarDor is a modern web application designed for viewing daily essential commodity prices, comparing category-based market rates, and managing user authentication and profiles seamlessly.",
+      "technologies": [
+        {
+          "name": "Next.js",
+          "icon": "nextdotjs"
+        },
+        {
+          "name": "App Router",
+          "icon": null
+        },
+        {
+          "name": "React.js",
+          "icon": "react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "tailwindcss"
+        },
+        {
+          "name": "Tailwind Turbopack",
+          "icon": null
+        },
+        {
+          "name": "react-icons",
+          "icon": null
+        },
+        {
+          "name": "react-marquee-text",
+          "icon": null
+        },
+        {
+          "name": "react-hot-toast",
+          "icon": null
+        },
+        {
+          "name": "Better Auth",
+          "icon": null
+        },
+        {
+          "name": "MongoDB",
+          "icon": "mongodb"
+        },
+        {
+          "name": "@better-auth/mongo-adapter",
+          "icon": null
+        }
+      ],
+      "liveUrl": "https://b14-a7-bazar-dor-beryl.vercel.app/",
+      "githubUrl": "https://github.com/sakiburdev/b14-a7-bazar-dor.git",
+      "challenges": [
+        "Had some alignment issues with the header and navbar.",
+        "Spent time improving the marquee behavior and timing."
+      ],
+      "futurePlans": [
+        "Integrate a payment gateway."
+      ]
+    },
+    {
+      "id": "fitlog",
+      "name": "FitLog — Modern Workout & Fitness Tracker",
+      "slug": "fitlog",
+      "images": [
+        "/images/fitlog/fitlog1.png",
+        "/images/fitlog/fitlog3.png",
+        "/images/fitlog/fitlog4.png"
+      ],
+      "imageLayout": "scattered",
+      "description": "FitLog is a dynamic, high-performance web application designed to help users discover, track, and manage their daily fitness routines effortlessly. Built with modern web technologies, it offers an intuitive dark-themed interface, seamless exercise organization, and real-time planning capabilities.",
+      "technologies": [
+        {
+          "name": "Next.js",
+          "icon": "nextdotjs"
+        },
+        {
+          "name": "App Router",
+          "icon": null
+        },
+        {
+          "name": "React.js",
+          "icon": "react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "tailwindcss"
+        },
+        {
+          "name": "daisyUI",
+          "icon": "daisyui"
+        },
+        {
+          "name": "React Icons",
+          "icon": null
+        },
+        {
+          "name": "React Toastify",
+          "icon": null
+        },
+        {
+          "name": "Native Fetch API / REST API",
+          "icon": null
+        },
+        {
+          "name": "Vercel",
+          "icon": "vercel"
+        }
+      ],
+      "liveUrl": "https://b14-a6-fit-log-neon-omega.vercel.app/",
+      "githubUrl": "https://github.com/sakiburdev/B14-A6-Fit-Log.git",
+      "challenges": [
+        "Implementing the Sort By functionality on the My Plan page was challenging."
+      ],
+      "futurePlans": [
+        "Integrate a payment gateway.",
+        "Add authentication with Better Auth.",
+        "Add email verification.",
+        "Explore trainer hiring and related fitness features."
+      ]
+    },
+    {
+      "id": "devstack",
+      "name": "DevStack",
+      "slug": "devstack",
+      "images": [
+        "/images/devstack/devstack1.png",
+        "/images/devstack/devstack2.png",
+        "/images/devstack/devstack3.png"
+      ],
+      "imageLayout": "scattered",
+      "description": "DevStack is an interactive web platform designed for developers to easily discover, compare, and assemble the right technology stack (Frontend, Backend, Database, DevOps) for their projects. It allows users to browse through modern tech options and build a personalized Your Stack in real time.",
+      "features": [
+        "Interactive Stack Builder: Add or remove technologies from your stack with a single click.",
+        "Quick Insights: View tool categories, difficulty levels, and ratings at a glance.",
+        "Clean & Responsive UI: Modern visual presentation for effortless project planning."
+      ],
+      "technologies": [
+        {
+          "name": "React.js",
+          "icon": "react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "tailwindcss"
+        },
+        {
+          "name": "JSON Data",
+          "icon": null
+        },
+        {
+          "name": "React-Toastify",
+          "icon": null
+        },
+        {
+          "name": "React Icons",
+          "icon": null
+        },
+        {
+          "name": "Dynamic PNG/SVG Icons",
+          "icon": null
+        }
+      ],
+      "liveUrl": "https://splendorous-selkie-76cd99.netlify.app/",
+      "githubUrl": "https://github.com/sakiburdev/B14-A05-DevStack.git",
+      "challenges": [
+        "Making the navbar responsive across screen sizes.",
+        "Handling the logic for adding technologies to the stack.",
+        "Implementing the Your Stack feature."
+      ],
+      "futurePlans": [
+        "Add Better Auth.",
+        "Integrate payment methods.",
+        "Implement email verification."
+      ]
+    }
+  ]
+}
